@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from curl_cffi import requests
 import re
 import json
